@@ -7,7 +7,6 @@ C++ 23
 
 ## Build
 ```bash
-cmake ./
 make
 ```
 
