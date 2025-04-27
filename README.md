@@ -2,6 +2,9 @@
 
 Webserver is a simple HTTP server written in C++.
 
+## C++ version
+C++ 23
+
 ## Build
 ```bash
 cmake ./
